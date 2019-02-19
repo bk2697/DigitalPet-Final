@@ -8,7 +8,7 @@
       <p>Tiredness: {petLike}</p>
     </div>
     <br>
-    <button name="post" onclick={ setPost }>Post</button>
+    <button name="post" onclick={ setPost }>Selfie</button>
     <button name="like" onclick={ setLike }>Like</button>
     <button name="reset" onclick={ setReset }>Reset</button>
 
